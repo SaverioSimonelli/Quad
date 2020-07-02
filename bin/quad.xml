@@ -1,0 +1,13 @@
+<config>
+	<population>example</population>
+	<set>test</set>
+	<upstream>5000</upstream>
+	<downstream>5000</downstream>
+	<maxlength>45</maxlength>
+	<minggroup>2</minggroup>
+	<minscore>0</minscore>
+	<thirdcolumn>False</thirdcolumn>
+	<threshold>51</threshold>
+	<relation>greater_than</relation>
+	<rlibrarypath>C:\Program Files\R\R-3.6.3\library</rlibrarypath>
+</config>

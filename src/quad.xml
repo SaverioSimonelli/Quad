@@ -1,0 +1,13 @@
+<config>
+	<population>Adipocytes</population>
+	<set>4940 DETs in HG CoCultured Adipocytes HG (vs Adipocytes HG)</set>
+	<upstream>5000</upstream>
+	<downstream>5000</downstream>
+	<maxlength>45</maxlength>
+	<minggroup>2</minggroup>
+	<minscore>1</minscore>
+	<thirdcolumn>False</thirdcolumn>
+	<threshold>40</threshold>
+	<relation>greater_than</relation>
+	<rlibrarypath>C:\Users\Utente\Documents\R\win-library\3.5</rlibrarypath>
+</config>
