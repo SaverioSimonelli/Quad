@@ -15,13 +15,13 @@ Quad creates a database wired in the file system and outputs of each transcript 
 In order to use quad executable version: download source code, download executable file and save it in bin folder.
 
 In case using Mac or Linux Operating Systems change file permissions from command line:
-	sudo chmod 777 quad-linux 
-	or
-	sudo chmod 777 quad-mac
-	sudo chmod 777 quad-mac-start
+        sudo chmod 777 quad-linux 
+        or
+        sudo chmod 777 quad-mac
+        sudo chmod 777 quad-mac-start
 
 Use source files if it is not possibile run the executable file:
-	from command line change directory to src folder
+        from command line change directory to src folder
 		Windows: 
 			python quad.py
 		Mac/Linux: 
