@@ -10,3 +10,27 @@ By using Quad, it is possible to choose between QGRS local version, QGRS web ver
 
 Quad creates a database wired in the file system and outputs of each transcript set are coded in summary tables saved in the local database.
 
+In order to use quad executable version: download source code, download executable file and save it in bin folder.
+
+In case using Mac or Linux Operating Systems change file permissions from command line:
+	sudo chmod 777 quad-linux 
+	or
+	sudo chmod 777 quad-mac
+	sudo chmod 777 quad-mac-start
+
+Use source files if it is not possibile run the executable file:
+	from command line change directory to src folder
+		Windows: 
+			python quad.py
+		Mac/Linux: 
+			python3 quad.py
+		If required:
+				download Python version 3.x (https://www.python.org/)	
+				install following Python Libraries:
+					Windows: 
+						pip install requests
+						pip install numpy
+						pip install pandas 
+						pip install matplotlib
+					Mac/Linux:
+						pip3 install 
