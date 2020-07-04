@@ -8,6 +8,8 @@ PQS is a R-library distributed by Bioconductor. In order to be used from Quad wi
 
 By using Quad, it is possible to choose between QGRS local version, QGRS web version (QGRS Mapper) or PQS (pqsfinder). 
 
+Be careful: csv files should use semicolon (;) as separator.
+
 Quad creates a database wired in the file system and outputs of each transcript set are coded in summary tables saved in the local database.
 
 In order to use quad executable version: download source code, download executable file and save it in bin folder.
